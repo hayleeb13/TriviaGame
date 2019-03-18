@@ -1,0 +1,26 @@
+body{
+  background-image: url(../images/background.png);
+}
+
+.container{
+  width: 800px;
+  height: 1000px;
+  background-color: lightgreen;
+}
+
+#Title{
+  text-align: center;
+  padding: 50px;
+  font-size: 75px;
+  text-transform: uppercase;
+  color: darkred;
+  font-family: 'Bangers', cursive;
+  text-shadow: 5px 5px 0 yellow;
+}
+
+#start{
+  height: 100px;
+  width: 300px;
+  margin-left: 35%;
+  margin-top: 10%;
+}
